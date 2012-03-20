@@ -91,7 +91,8 @@ $GLOBALS['_transient']['static']['nusoap_base']->globalDebugLevel = 9;
 * @access   public
 */
 /**
-*nusoap updates
+*@author    Anirudh Subramanian 
+*nusoap updates for Atutor
 *ereg replaced with preg_match for PHP > 5.3
 *set_magic_quotes_runtime remmoved for php > 5.3
 **/
